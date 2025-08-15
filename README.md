@@ -27,6 +27,7 @@
 
   For Windows, use Ctrl + Shift + p instead.
 
+
 ## Install the python package
 
 ```shell
@@ -35,3 +36,6 @@ pip install vschart - python
 cd tests
 python test_all.py
 ```
+## Screenshot
+![Screenshot 2025-08-15 at 19 36 48](https://github.com/user-attachments/assets/253742fd-2ab1-4dbb-bb49-9626d1a7d2f5)
+
