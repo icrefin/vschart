@@ -6,6 +6,7 @@
 ## Install the python package.
 ```shell
 pip install vschart-python
+# get tests/* from github.
 cd tests
 python test_all.py
 ```
