@@ -31,7 +31,7 @@
 ## Install the python package
 
 ```shell
-pip install vschart - python
+pip install vschart-python
 #get tests/* from github and run to see how it works
 cd tests
 python test_all.py
